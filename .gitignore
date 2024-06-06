@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Environments
+.env
+.env.local
+.env.development.local
+venv/
+
+led / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
